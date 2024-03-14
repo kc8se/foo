@@ -1,2 +1,2 @@
-# foo
-The foo
+# Foo
+The foo!
